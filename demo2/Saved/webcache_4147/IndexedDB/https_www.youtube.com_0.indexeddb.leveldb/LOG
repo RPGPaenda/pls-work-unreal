@@ -1,0 +1,5 @@
+2022/09/26-18:29:13.270 3ff8 Reusing MANIFEST C:/Users/WUStudent/Documents/GitHub/pls-work-unreal/demo2/Saved/webcache_4147\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/09/26-18:35:20.711 56d8 Level-0 table #5: started
+2022/09/26-18:35:20.746 56d8 Level-0 table #5: 6824 bytes OK
+2022/09/26-18:35:20.750 56d8 Delete type=0 #3
+2022/09/26-18:35:20.751 56d8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
